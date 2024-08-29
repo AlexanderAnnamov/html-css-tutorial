@@ -1,0 +1,7 @@
+1. Сверстай блок как на картинке и отпозиционоруюй с помощью position: absolute, 
+поставь этот блок в каждый угол картинки.
+Картинка - https://res.cloudinary.com/practicaldev/image/fetch/s--HsvrL-cd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lcwvzstgiyalh0bs3r76.png
+2. Сверстай с помощью display: flex как на картинке: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpqgixUGCZex4BBBQ2jshWRwx4KWKQIN5Cw&s
+сделай та чтобы уменьшении экрана браузера блоки перемещались на новую строку
+Картинка - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpqgixUGCZex4BBBQ2jshWRwx4KWKQIN5Cw&s
+3. Пройди тест на позиционирование элементов - https://webref.ru/course/position/quiz

@@ -1,0 +1,3 @@
+1. CSS позиционирование (CSS position). Уроки HTML CSS JS. Урок №12 - https://www.youtube.com/watch?v=mpykT40_VBc
+2. Как позиционировать элементы в CSS. Свойство position - https://htmlacademy.ru/blog/css/position
+3. Как работает CSS Flexbox: наглядное введение в систему компоновки элементов на веб-странице - https://tproger.ru/translations/how-css-flexbox-works
